@@ -34,7 +34,7 @@
 - Run workflow from actions
 - Open Workflow logs
 - Then Copy ip, username and password
-- Paste ip to *Remote Desktop* in your computer or [*RD Client*](https://play.google.com/store/apps/details?id=com.microsoft.rdc.androidx)
+- Paste ip to *Remote Desktop* in your computer or [*RD Client*](https://play.google.com/store/apps/details?id=com.microsoft.rdc.androidx) in your mobile phone
 - Then Paste username and password and connect to the RDP
 - Now you Can Enjoy! 😊
 
