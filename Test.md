@@ -6,7 +6,6 @@
 
 <h4 align="center">I am a simple developer. Not like Dennis Ritchie..</h3>
 
-##
 <p align="center">
   <a href="https://github.com/SLTechnicalTips/RDP">
     <img src="https://komarev.com/ghpvc/?username=SLTechnicalTips&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
@@ -54,6 +53,8 @@
 - 👨‍ [WhatsApp](https://wa.me/94770025374?text=I'm+from+Github)
 
 - 💫 [Website](http://sltechnicaltips.github.io/)
+<br>
+
 
 
 <div align="center"><img src="https://profile-counter.glitch.me/SLTechnicalTips/count.svg" /><br>Profile Viewers</div>
