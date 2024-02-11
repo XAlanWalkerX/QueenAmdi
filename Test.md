@@ -26,7 +26,7 @@
 ## Instructions
 
 - Create [Github](https://github.com/signup) Account
-- [Fork Repository](https://github.com/SLTechnicalTips/RDP/fork)
+- Then [Fork Repository](https://github.com/SLTechnicalTips/RDP/fork)
 - Create [Ngrok Account](https://dashboard.ngrok.com/signup)
 - Copy [Ngrok Auth Token](https://dashboard.ngrok.com/get-started/your-authtoken)
 - Paste it to the place given in [video](youtu.be/hhhh)
