@@ -1,4 +1,4 @@
-# Free RDP Server by SLTechnicalTips (Imesh S Abeysinghe) 🎩🔨👮🏻‍♂️
+# Free RDP Server by SL Technical Tips (Imesh S Abeysinghe) 🎩🔨👮🏻‍♂️
 
 <p align="center">
   <a href="https://youtube.com/@Imesh.S.Abeysinghe?sub_confirmation=1">
