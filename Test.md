@@ -34,7 +34,7 @@
 - Run workflow from actions
 - Open Workflow logs
 - Then Copy ip, username and password
-- Paste ip to *Remote Desktop* in your computer or [*RD Client*](https://play.google.com/store/apps/details?id=com.microsoft.rdc.androidx) in your mobile phone
+- Paste IP to *Remote Desktop* in your computer or [*RD Client*](https://play.google.com/store/apps/details?id=com.microsoft.rdc.androidx) in your mobile phone
 - Then Paste username and password and connect to the RDP
 - Now you Can Enjoy! 😊
 
@@ -68,10 +68,3 @@
    <a href="https://youtube.com/@Imesh.S.Abeysinghe?sub_confirmation=1" alt="made-with-python"> <img src="https://github.com/devSouvik/devSouvik/blob/master/gif2.gif.gif"width="500" /> </a>
 </p>
 
-      <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="" height="30" width="40" /></a>
-</p>
-   <p align='center'>
-   <a href="https://youtube.com/@Imesh.S.Abeysinghe?sub_confirmation=1" alt="made-with-python"> <img src="https://github.com/devSouvik/devSouvik/blob/master/gif2.gif.gif"width="500" /> </a>
-</p>
-
-    
