@@ -6,8 +6,6 @@
 
 <h4 align="center">I am a simple developer. Not like Dennis Ritchie..</h3>
 
-
-
 ##
 <p align="center">
   <a href="https://github.com/SLTechnicalTips/RDP">
@@ -24,6 +22,21 @@
   </a>
 </p>
 
+## [Watch Video](youtu.be/jshsha)
+
+## Instructions
+
+- Create [Github](https://github.com/signup) Account
+- [Fork Repository](https://github.com/SLTechnicalTips/RDP)
+- Create [Ngrok Account](https://dashboard.ngrok.com/signup)
+- Copy [Ngrok Auth Token](https://dashboard.ngrok.com/get-started/your-authtoken)
+- Paste it to the place given in [video](youtu.be/hhhh)
+- Run workflow from actions
+- Open Workflow logs
+- Then Copy ip, username and password
+- Paste ip to *Remote Desktop* in your computer or [*RD Client*](https://play.google.com/store/apps/details?id=com.microsoft.rdc.androidx)
+- Then Paste username and password and connect to the RDP
+- Now you Can Enjoy! 😊
 
 
 ## Follow me from: 
@@ -50,6 +63,12 @@
   <a href="" target="white"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="" height="30" width="40" /></a>
   <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="" height="30" width="40" /></a>
   <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="" height="30" width="40" /></a>
+</p>
+   <p align='center'>
+   <a href="https://youtube.com/@Imesh.S.Abeysinghe?sub_confirmation=1" alt="made-with-python"> <img src="https://github.com/devSouvik/devSouvik/blob/master/gif2.gif.gif"width="500" /> </a>
+</p>
+
+      <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="" height="30" width="40" /></a>
 </p>
    <p align='center'>
    <a href="https://youtube.com/@Imesh.S.Abeysinghe?sub_confirmation=1" alt="made-with-python"> <img src="https://github.com/devSouvik/devSouvik/blob/master/gif2.gif.gif"width="500" /> </a>
